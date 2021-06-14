@@ -1,4 +1,4 @@
-package com.example.unsubscribe.dao;
+package com.example.unsubscribe.configs;
 
 import org.springframework.security.core.AuthenticationException;
 import org.springframework.security.web.AuthenticationEntryPoint;

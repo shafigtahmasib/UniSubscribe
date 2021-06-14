@@ -1,4 +1,4 @@
-package com.example.unsubscribe.dao;
+package com.example.unsubscribe.configs;
 
 import com.example.unsubscribe.utils.JwtTokenUtil;
 import com.example.unsubscribe.services.JwtUserDetailsService;
